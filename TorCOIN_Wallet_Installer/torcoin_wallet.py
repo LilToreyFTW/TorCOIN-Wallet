@@ -446,7 +446,7 @@ class TorCOINWallet:
         address_display_frame.pack(fill=tk.X, padx=20, pady=(0, 20))
 
         self.address_label = tk.Text(address_display_frame, height=3, font=('Consolas', 12),
-                                   bg=self.colors['bg_tertiary'], fg=self.colors['accent'],
+                                   bg=self.colors['bg_tertiary'], fg=self.colors['accent_primary'],
                                    state='disabled', wrap=tk.WORD)
         self.address_label.pack(fill=tk.X, padx=10, pady=10)
         self.update_address_display()
