@@ -1,0 +1,18 @@
+TorCOIN Wallet v1.0
+Released: November 2024
+
+What's New in v1.0:
+• Complete GUI wallet interface
+• Send 
+• Transaction history
+• Address management
+• Security features
+• Dark theme UI
+• Cross-platform compatibility
+
+System Requirements:
+• Python 3.8+
+• Windows 10+
+• 100MB disk space
+
+For updates, visit: https://www.torcoin.cnet/downloads
